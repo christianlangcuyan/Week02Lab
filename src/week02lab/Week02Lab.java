@@ -18,8 +18,8 @@ public class Week02Lab {
         // TODO code application logic here
         
         System.out.println("CPRG-352 lab Question Part 4 Question 8.");
-        System.out.println("Adding more commits lol");
-        
+        System.out.println("More and more commits.");
+        System.out.println("And more");
     }
     
 }
