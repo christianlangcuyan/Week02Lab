@@ -20,6 +20,8 @@ public class Week02Lab {
         System.out.println("CPRG-352 lab Question Part 4 Question 8.");
         System.out.println("More and more commits.");
         System.out.println("And more");
+        
+        System.out.println("Hello");
     }
     
 }
